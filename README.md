@@ -1,0 +1,2 @@
+# ÀvalUOC
+Aplicació de correcció de DTO. Obre https://aagust11.github.io/avaluoc/ en Chrome/Edge, vincula o crea un JSON local. GitHub Pages només allotja el codi; les dades es desen al fitxer local amb File System Access API. Desament automàtic sense recarregar la vista. Importació massiva mitjançant text Nom;Grup. Resultats CSV. És important fer còpies de seguretat i no editar el mateix fitxer simultàniament. Activa GitHub Actions a Settings > Pages si cal.
