@@ -4,3 +4,5 @@
 .copy-points{border:1px solid transparent;background:#eef3ff;color:#325ac1;font-variant-numeric:tabular-nums;white-space:nowrap}.copy-points:not(:disabled):hover{border-color:#8aa5ec;background:#e0e9ff}.copy-points.copied{background:#def7e8;color:#167247}.copy-points:disabled{opacity:.45;cursor:not-allowed}
 
 .low-co-grade{color:#b42331!important;background:#fff0f1!important;font-weight:800;border-radius:8px}
+
+.state-black{background:#232936;color:#fff}.state-black.selected{box-shadow:0 0 0 2px #98a3b6}.status-dot.black{background:#202938}.locked-notice{padding:16px 18px;margin:12px 0;border:1px solid #ddc5a7;background:#fff7e8;color:#7c4a19;border-radius:12px;font-weight:650}.board-stats{grid-template-columns:repeat(4,minmax(0,1fr))}.board-columns{grid-template-columns:repeat(4,minmax(0,1fr))}@media(max-width:1050px){.board-columns{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:650px){.board-columns{grid-template-columns:1fr}.board-stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
