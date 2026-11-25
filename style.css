@@ -17,3 +17,6 @@
 .pec-locked{display:inline-block;border-radius:8px;background:#edf1f7;color:#485670;padding:6px 9px;font-weight:750;font-size:12px}select[data-pec-group]:disabled{background:#f1f3f8;color:#65738d;cursor:not-allowed}select[data-pec-group]{min-width:190px}
 
 .pec-edited{display:inline-block;border-radius:8px;background:#e8f4ff;color:#225aa3;padding:6px 9px;font-weight:750;font-size:12px}.small-pec-button{font-size:11px;padding:5px 8px;margin-left:8px;white-space:nowrap}.highlight-student-row{background:#fff3d9!important;outline:2px solid #e6b85e;outline-offset:-2px}
+
+/* Distinció entre PEC no presentada i qualificació inferior al mínim */
+.no-presentat-grade{color:#23272f!important;background:#e8e9ec;border-radius:6px;font-weight:800;padding:4px 7px}.low-co-grade{color:#c62828!important;font-weight:800;background:#ffeded;border-radius:6px;padding:4px 7px}
